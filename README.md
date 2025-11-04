@@ -1,3 +1,5 @@
+[![Live – GitHub Pages](https://img.shields.io/badge/Live-GitHub%20Pages-2ea44f?logo=github)](https://mominurislamroby.github.io/scientific-calculator/)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
