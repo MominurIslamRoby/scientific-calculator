@@ -60,3 +60,36 @@ npm install
 npm run dev
 
 # The app will open at http://localhost:5173/
+
+
+scientific-calculator/
+│
+├── src/
+│   ├── assets/          # App images, icons
+│   ├── components/      # Reusable UI components
+│   ├── App.jsx          # Main React app file
+│   └── main.jsx         # Entry point
+│
+├── public/              # Static assets
+├── package.json         # Dependencies and scripts
+├── vite.config.js       # Vite configuration
+└── tailwind.config.js   # Tailwind setup
+
+👨‍💻 Developer
+
+Developed by Mominur Islam Roby
+
+💌 Email: mominurislamroby2017@gmail.com
+
+🌍 Portfolio: Coming soon!
+
+If you like this project, give it a ⭐ on GitHub — it motivates me to build more cool stuff!
+
+📜 License
+
+This project is licensed under the MIT License — free to use and modify.
+
+💖 Thank you for visiting!
+
+“Code. Calculate. Create.”
+— Roby
