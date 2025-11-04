@@ -1,25 +1,48 @@
 [![Live – GitHub Pages](https://img.shields.io/badge/Live-GitHub%20Pages-2ea44f?logo=github)](https://mominurislamroby.github.io/scientific-calculator/)
-
 [![Deploy Status](https://github.com/MominurIslamRoby/scientific-calculator/actions/workflows/deploy.yml/badge.svg)](https://github.com/MominurIslamRoby/scientific-calculator/actions/workflows/deploy.yml)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![License](https://img.shields.io/github/license/MominurIslamRoby/scientific-calculator)
 
+# 🧮 Scientific Calculator
 
-# React + Vite
+A modern **Scientific Calculator Web App** built with **React + Vite + Tailwind CSS**.  
+It supports both basic arithmetic and advanced scientific functions — all in a sleek, responsive interface with **Dark/Light mode** toggle.  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+👉 **Live Demo:** [mominurislamroby.github.io/scientific-calculator](https://mominurislamroby.github.io/scientific-calculator/)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## React Compiler
+- 🔢 **Basic Arithmetic** — Addition, Subtraction, Multiplication, Division  
+- 🧠 **Scientific Functions** — sin, cos, tan, log, ln, √, x², π, e, etc.  
+- 🧮 **Expression Evaluation** — Handles multi-operator expressions properly  
+- 🌗 **Dark / Light Mode** — Toggle UI themes instantly  
+- 🎨 **Clean UI** — Built with Tailwind CSS for modern design  
+- ⌨️ **Keyboard Support** — Type directly using your keyboard  
+- 📱 **Responsive Layout** — Works on desktop, tablet, and mobile  
+- 💾 **Hosted on GitHub Pages** — Easily accessible anywhere  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🧠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| Technology | Purpose |
+|-------------|----------|
+| ⚛️ React | UI library for component-based design |
+| ⚡ Vite | Fast build tool and dev environment |
+| 🎨 Tailwind CSS | Utility-first CSS for styling |
+| 🚀 GitHub Pages | Hosting and deployment |
+
+---
+
+## 🛠️ Installation & Setup
+
+Follow these steps to run it locally 👇  
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/MominurIslamRoby/scientific-calculator.git
+cd scientific-calculator
