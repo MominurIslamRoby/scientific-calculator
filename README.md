@@ -10,9 +10,9 @@
 # ⚛️ Scientific Calculator  
 ### 🧮 Built with **React + Vite + TailwindCSS**
 
-A modern, lightweight, and responsive **Scientific Calculator** web app that supports advanced mathematical operations and a sleek UI inspired by CASIO fx-series calculators.  
+A modern, lightweight, and responsive **Scientific Calculator** web app that supports advanced mathematical operations and a sleek UI inspired by CASIO fx-series calculators.
 
-🌐 **[→ Live Demo](https://mominurislamroby.github.io/scientific-calculator/)**  
+🌐 **Live Demo:** https://mominurislamroby.github.io/scientific-calculator/
 
 ---
 
@@ -23,24 +23,24 @@ A modern, lightweight, and responsive **Scientific Calculator** web app that sup
 
 ## ✨ Features
 
-- 🧠 **Scientific Functions** — sin, cos, tan, log, ln, √, x², π, e, etc.  
-- 🧾 **Expression Evaluation** — Handles multi-operator expressions correctly.  
-- 🌗 **Dark / Light Mode** — Instantly toggle between themes.  
-- 🎨 **Clean UI** — Built with TailwindCSS for a modern look.  
-- ⌨️ **Keyboard Support** — Type directly from your keyboard.  
-- 📱 **Responsive Layout** — Works seamlessly on desktop, tablet, and mobile.  
-- 🚀 **Deployed on GitHub Pages** — Fast and accessible anywhere.  
+- 🧠 **Scientific Functions** — `sin`, `cos`, `tan`, `log`, `ln`, `√`, `x²`, `x⁻¹`, constants `π`, `e`, `10^x`
+- 🧾 **Expression Evaluation** — Handles multi-operator expressions with correct order of operations
+- 🌗 **Dark / Light Mode** — Instant theme toggle
+- 🎨 **Clean UI** — TailwindCSS for a fresh, minimal aesthetic
+- ⌨️ **Keyboard Support** — Type directly from your keyboard
+- 📱 **Responsive** — Optimized for desktop, tablet, and mobile
+- 🚀 **GitHub Pages Deploy** — Auto-build & publish via Actions
 
 ---
 
 ## 🧩 Tech Stack
 
 | Technology | Purpose |
-|-------------|----------|
-| ⚛️ React | UI library for component-based design |
-| ⚡ Vite | Fast build tool and dev environment |
-| 🎨 Tailwind CSS | Utility-first CSS for modern styling |
-| 🌐 GitHub Pages | Hosting and deployment |
+|-----------:|:--------|
+| ⚛️ React | Component-based UI |
+| ⚡ Vite | Ultra-fast dev server & build |
+| 🎨 Tailwind CSS | Utility-first styling |
+| 🌐 GitHub Pages | Static hosting with CI/CD |
 
 ---
 
@@ -56,40 +56,12 @@ cd scientific-calculator
 # 2️⃣ Install dependencies
 npm install
 
-# 3️⃣ Run the app
+# 3️⃣ Run the app (development)
 npm run dev
+# The app will open at http://localhost:5173
 
-# The app will open at http://localhost:5173/
+# 4️⃣ Production build
+npm run build
 
-
-scientific-calculator/
-│
-├── src/
-│   ├── assets/          # App images, icons
-│   ├── components/      # Reusable UI components
-│   ├── App.jsx          # Main React app file
-│   └── main.jsx         # Entry point
-│
-├── public/              # Static assets
-├── package.json         # Dependencies and scripts
-├── vite.config.js       # Vite configuration
-└── tailwind.config.js   # Tailwind setup
-
-👨‍💻 Developer
-
-Developed by Mominur Islam Roby
-
-💌 Email: mominurislamroby2017@gmail.com
-
-🌍 Portfolio: Coming soon!
-
-If you like this project, give it a ⭐ on GitHub — it motivates me to build more cool stuff!
-
-📜 License
-
-This project is licensed under the MIT License — free to use and modify.
-
-💖 Thank you for visiting!
-
-“Code. Calculate. Create.”
-— Roby
+# 5️⃣ Preview the production build locally (optional)
+npm run preview
