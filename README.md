@@ -5,6 +5,13 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![License](https://img.shields.io/github/license/MominurIslamRoby/scientific-calculator)
 
+## 📸 Screenshot
+
+![Scientific Calculator](https://github.com/MominurIslamRoby/scientific-calculator/blob/main/src/assets/dark2.png?raw=true)
+
+[🔗 **Live Demo**](https://mominurislamroby.github.io/scientific-calculator/)
+
+
 # 🧮 Scientific Calculator
 
 A modern **Scientific Calculator Web App** built with **React + Vite + Tailwind CSS**.  
