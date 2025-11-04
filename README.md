@@ -1,6 +1,10 @@
 [![Live – GitHub Pages](https://img.shields.io/badge/Live-GitHub%20Pages-2ea44f?logo=github)](https://mominurislamroby.github.io/scientific-calculator/)
 
 [![Deploy Status](https://github.com/MominurIslamRoby/scientific-calculator/actions/workflows/deploy.yml/badge.svg)](https://github.com/MominurIslamRoby/scientific-calculator/actions/workflows/deploy.yml)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![License](https://img.shields.io/github/license/MominurIslamRoby/scientific-calculator)
 
 
 # React + Vite
